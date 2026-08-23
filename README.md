@@ -1,7 +1,7 @@
-# ilchiaroscuro, anonimizzatore di documenti
+# Anonimizzatore di documenti (ilchiaroscuro)
 
 Questo deposito contiene soltanto i **pacchetti pronti da installare** del
-programma ilchiaroscuro, per Windows, Mac (processori Apple e Intel) e
+programma «Anonimizzatore di documenti», distribuito con il marchio ilchiaroscuro, per Windows, Mac (processori Apple e Intel) e
 Linux, nel rilascio «pacchetti». Il codice sorgente sta in un deposito
 riservato e può essere mostrato su richiesta ai tecnici degli enti.
 
